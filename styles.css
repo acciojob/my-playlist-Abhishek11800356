@@ -7,3 +7,45 @@ h1{
 h2{
 	text-align:center;
 }
+#ul1{
+	border :solid 2px black;
+	background-color:rgb(255, 255, 255); 
+	padding:25px; 
+	border-radius:8px;
+	margin:10px 20px 0px 20px;
+}
+li{
+	background-color:rgb(255, 255, 255);
+}
+a{
+	background-color:rgb(255, 255, 255);
+	color:black;
+	text-decoration-line:none;
+ }
+#MP3{
+	background-color:rgb(255, 255, 255);
+}
+
+#div{
+	
+	border:solid 2px black;
+	border-radius:7px;
+    background-color:rgb(255, 255, 255);
+	.player_one{
+		width:94.5%;
+		padding:15px 15px 0px 15px;
+		background-color:rgb(255, 255, 255);
+	}
+	p{
+		font-weight:5px;
+		margin-left:15px;
+		background-color:rgb(255, 255, 255);
+	}
+	.player_two{
+		background-color:rgb(255, 255, 255);
+		width:94.5%;
+		padding:15px 15px 0px 15px;
+	}
+	
+}
+
