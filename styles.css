@@ -31,15 +31,15 @@ a{
 	border:solid 2px black;
 	border-radius:7px;
     background-color:rgb(255, 255, 255);
+    padding:15px 15px 0px 15px;
 	.player_one{
 		background-color:rgb(255 255 255);
-		width:94.5%;
-		padding:15px 15px 0px 15px;
-		
+		width:550px;
+		margin-bottom:0px;		
 	}
 	p{
 		font-weight:5px;
-		margin-left:15px;
+		margin-left:10px;
 		background-color:rgb(255, 255, 255);
 	}
 	.player_two{
