@@ -1,5 +1,5 @@
 *{
-	background-color:rgb(255,255,255);
+	background-color:rgb(204,204,204);
 }
 h1{
 	text-align:center;
@@ -22,6 +22,14 @@ a{
 	color:black;
 	text-decoration-line:none;
  }
+
+#top{
+	height:200px;
+	display:flex;
+	flex-direction:column;
+	gap:-2%;
+		
+}
 #MP3{
 	background-color:rgb(255, 255, 255);
 }
@@ -33,21 +41,24 @@ a{
     background-color:rgb(255, 255, 255);
     padding:15px 15px 0px 15px;
 	margin:30px 40px 30px 40px;
-	.player_one{
+}
+
+.player_one{
 		background-color:rgb(255,255,255);
 		width:470px;
 		margin-bottom:0px;		
 	}
-	p{
+
+p{
 		font-weight:5px;
 		margin-left:10px;
 		background-color:rgb(255, 255, 255);
-	}
-	.player_two{
+}
+.player_two{
 		background-color:rgb(255, 255, 255);
 		width:96%;
 		padding:0px 10px 0px 10px;
 	}
-	
-}
+
+
 
