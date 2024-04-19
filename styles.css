@@ -1,5 +1,5 @@
 *{
-	background-color:rgb(204,204,204);
+	background-color:rgb(255,255,255);
 }
 h1{
 	text-align:center;
@@ -12,7 +12,7 @@ h2{
 	background-color:rgb(255, 255, 255); 
 	padding:25px; 
 	border-radius:8px;
-	margin:10px 20px 0px 20px;
+	margin:10px 10px 0px 10px;
 }
 li{
 	background-color:rgb(255, 255, 255);
@@ -32,9 +32,10 @@ a{
 	border-radius:7px;
     background-color:rgb(255, 255, 255);
     padding:15px 15px 0px 15px;
+	margin:30px 40px 30px 40px;
 	.player_one{
 		background-color:rgb(255,255,255);
-		width:550px;
+		width:470px;
 		margin-bottom:0px;		
 	}
 	p{
@@ -44,8 +45,8 @@ a{
 	}
 	.player_two{
 		background-color:rgb(255, 255, 255);
-		width:94.5%;
-		padding:15px 15px 0px 15px;
+		width:96%;
+		padding:0px 10px 0px 10px;
 	}
 	
 }
